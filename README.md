@@ -1,1 +1,1 @@
-# whisperai_speech_recognition
+# Speech Recognition using Whisper AI
