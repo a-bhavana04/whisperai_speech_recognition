@@ -1,6 +1,5 @@
 # Speech Recognition using Whisper AI
 
-## Overview
 This notebook implements **Whisper**, a state-of-the-art speech recognition model developed by OpenAI, to transcribe and analyze audio inputs. It includes steps for loading audio data, preprocessing, and generating transcriptions with Whisper.
 
 ## Features
